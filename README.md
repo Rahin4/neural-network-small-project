@@ -1,0 +1,1 @@
+built a simple neural network model using sckitt_learn , and with make_classfication data, with 10000 rows and 200 features , can make the model more better , but next time it i going to be more big data and more realistic data . thank you
